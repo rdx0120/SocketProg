@@ -1,0 +1,12 @@
+web.mit.edu/dimitrib/www/datanets.html
+www.evanjones.ca/crc32c.html
+www.codeincodeblock.com/2011/06/mini-project-snake-game-in-c.html
+www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html
+www.mcs.anl.gov/~kazutomo/rdtsc.html
+library.tamu.edu/about/loan_evans.html
+man7.org/linux/man-pages/man3/strtfime.3.html
+www.mathworks.com/videos/series/deep-learning-with-MATLAB.html
+www.conference-service.com/conferences/networks.html
+tools.ietf.org/html/rfc1945
+www.tamu.edu/index.html
+demo.borland.com/testsite/stadyn_largepagewithimages.html

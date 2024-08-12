@@ -1,0 +1,13 @@
+Test cases should include
+# line of text terminated by a new line
+1) Howdy world!
+
+# line of text the maximum line length without a newline,
+2) 12345678901
+
+# line with no characters and EOF
+3)
+
+4) client terminated after entering text,
+
+5) three clients connected to the server.
