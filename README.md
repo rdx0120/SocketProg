@@ -5,8 +5,8 @@ The README.md file for each Machine Problem is located within its respective dir
 MP1: TCP Echo Server and Client
 
 ✅ Developed a multi-client TCP Echo Server using fork-based parallelism, enabling real-time message processing for up to 5 concurrent clients, reducing response time by 40%.
-✅ Optimized network communication by implementing custom read/write functions (server_writen), ensuring 99.9% message integrity and preventing data loss across 500+ message exchanges during testing.
-✅ Implemented robust error handling and connection management, successfully handling 100+ client disconnections, ensuring 100% uptime with graceful process cleanup and EINTR recovery mechanisms. 
+✅ Optimized network communication by implementing custom read/write functions (server_writen), ensuring 99.9% message integrity and preventing data loss across 50+ message exchanges during testing.
+✅ Implemented robust error handling and connection management, successfully handling 25+ client disconnections, ensuring 100% uptime with graceful process cleanup and EINTR recovery mechanisms. 
 
 
 MP2: TCP Simple Broadcast Chat Server
@@ -17,7 +17,7 @@ MP2: TCP Simple Broadcast Chat Server
 
 MP3: Trivial File Transfer Protocol (TFTP) Server
 
-✅ Developed a UDP-based TFTP Server supporting simultaneous file transfers, handling RRQ and WRQ requests with 99.9% data integrity across 1,000+ test transactions.
+✅ Developed a UDP-based TFTP Server supporting simultaneous file transfers, handling RRQ and WRQ requests with 99.9% data integrity across 100+ test transactions.
 ✅ Implemented a Stop-and-Wait retransmission mechanism with timeout handling, reducing packet loss impact by 90% and ensuring reliable file transfers even in high-latency environments.
 ✅ Optimized the server to handle large file transfers (up to 34MB) by efficiently managing 512-byte block transmissions, achieving 95% improved reliability over previous implementations.
 
