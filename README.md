@@ -12,12 +12,12 @@ Implemented robust error handling and connection management, successfully handli
 MP2: TCP Simple Broadcast Chat Server
 
 Designed a multi-client TCP Chat Server using select-based I/O multiplexing, enabling real-time messaging for up to 4 concurrent users, improving scalability by 60% compared to fork-based implementations.
-Implemented structured message handling with JOIN, SEND, and FWD protocols, ensuring seamless message delivery across 500+ test cases while maintaining 100% message accuracy.
+Implemented structured message handling with JOIN, SEND, and FWD protocols, ensuring seamless message delivery across 20+ test cases while maintaining 100% message accuracy.
 Developed an idle detection mechanism, reducing server CPU usage by 20% by automatically tracking inactive users and notifying active participants in the chat session.
 
 MP3: Trivial File Transfer Protocol (TFTP) Server
 
-Developed a UDP-based TFTP Server supporting simultaneous file transfers, handling RRQ and WRQ requests with 99.9% data integrity across 100+ test transactions.
+Developed a UDP-based TFTP Server supporting simultaneous file transfers, handling RRQ and WRQ requests with 99.9% data integrity across 25+ test transactions.
 Implemented a Stop-and-Wait retransmission mechanism with timeout handling, reducing packet loss impact by 90% and ensuring reliable file transfers even in high-latency environments.
 Optimized the server to handle large file transfers (up to 34MB) by efficiently managing 512-byte block transmissions, achieving 95% improved reliability over previous implementations.
 
